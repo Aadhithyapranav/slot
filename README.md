@@ -124,7 +124,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-!![alt text](image.png)
+![image](https://github.com/user-attachments/assets/7c0d1d89-f5c2-488c-a88d-a75949ddf838)
+
 
 
 ## RESULT

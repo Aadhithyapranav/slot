@@ -124,7 +124,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-11-29 140628.png>)
+Screenshot 2024-11-29 150547.png
 
 
 ## RESULT

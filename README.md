@@ -34,7 +34,7 @@ Execute the program using runserver command.
     <img src="/static/logo.png"height="100"width="540">    
     </center>
     <TABLE border = "1" align = "center" cellpadding = "5" bgcolor = "cyan">
-    <CAPTION>SLOT TIME TABLE - R HARIRAM (249005836)</CAPTION>
+    <CAPTION>SLOT TIME TABLE - Aadhithyapranav(24003903)</CAPTION>
     <TR bgcolor = "yellow">
     <TH>DAY/TIME</TH>
     <TH>8 - 10</TH>
@@ -124,7 +124,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](image-1.png)
+!![alt text](image.png)
 
 
 ## RESULT
